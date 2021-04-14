@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/web pages/Compressed/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/gdata-contacts-3.0-1.41.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/core-1.47.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/google-http-client-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/google-oauth-client-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/google-oauth-client-java6-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/google-oauth-client-jetty-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/jsr305-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/MyContactsApp-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GIBSON MUMBA/Downloads/g-data/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
